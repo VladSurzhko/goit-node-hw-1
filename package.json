@@ -4,17 +4,17 @@
     "description": "",
     "main": "index.js",
     "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1",
-      "start": "node index.js",
-      "dev": "nodemon index.js"
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node index.js",
+        "dev": "nodemon index.js"
     },
     "author": "",
     "license": "ISC",
-  "devDependencies": {
-      "nodemon": "^3.0.1"
+    "devDependencies": {
+        "nodemon": "^3.0.1"
     },
     "dependencies": {
-      "commander": "^11.0.0",
-      "nanoid": "^3.3.4"
+        "commander": "^11.0.0",
+        "nanoid": "^3.3.4"
     }
-  }
+}
